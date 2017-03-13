@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# bin/compile <build-dir> <cache-dir>
+
+cat << EOF
+┓┏┓┏┓┃
+┛┗┛┗┛┃⟍ ○⟋
+┓┏┓┏┓┃  ∕       Friday
+┛┗┛┗┛┃ノ)
+┓┏┓┏┓┃          deploy,
+┛┗┛┗┛┃
+┓┏┓┏┓┃          good
+┛┗┛┗┛┃
+┓┏┓┏┓┃          luck!
+┃┃┃┃┃┃
+┻┻┻┻┻┻
+EOF
