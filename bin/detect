@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
 
-if [[ $(date +%u) -eq 5 ]] ; then
-  echo "Friday"
-  exit 0
-else
-  exit 1
-fi
+LC_TIME=en_US date +%A
+exit 0
